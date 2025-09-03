@@ -1,2 +1,3 @@
 # personal_finance_dashboard
-takes bank statement CSVs and visualizes spending by category
+
+Takes bank statement CSVs and visualizes spending by category

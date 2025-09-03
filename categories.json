@@ -1,0 +1,7 @@
+{
+    "Food": ["mcdonald", "ubereats", "starbucks", "grocery", "walmart"],
+    "Rent": ["apartment", "landlord", "lease"],
+    "Utilities": ["comcast", "electric", "water", "gas"],
+    "Travel": ["uber", "lyft", "airlines", "hotel"],
+    "Entertainment": ["netflix", "spotify", "hbo", "cinema"]
+}
